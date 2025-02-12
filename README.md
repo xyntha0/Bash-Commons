@@ -259,4 +259,4 @@ This code is released under the Apache 2.0 License. Please see
 [LICENSE](https://github.com/gruntwork-io/bash-commons/tree/master/LICENSE) and 
 [NOTICE](https://github.com/gruntwork-io/bash-commons/tree/master/NOTICE) for more details.
 
-Copyright &copy; 2018 Gruntwork, Inc.
+Copyright &copy; 2025 xyntha0, Inc.
